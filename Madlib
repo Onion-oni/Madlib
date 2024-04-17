@@ -1,4 +1,0 @@
-def madlib():
-    setting = input('location: ')
-    adjective = input('adjective: ')
-    return 'Our story takes place here in ' + setting + '. The sunsets here in ' + setting + ' are among some of the most ' + adjective + ' in the world.'
